@@ -1,8 +1,9 @@
-# Getting-and-Cleaning-Data_Week-4
+## Getting-and-Cleaning-Data_Week-4
 Coursera_Getting and Cleaning Data_Data Curse Project_Week 4
 
 ## Coursera_run_analysis
-Coursera_Getting and Cleaning Data_Data Curse Project_Week 4
+1. TidyData.exe - tidy data set created in step 5 of the instructions
+2. run_analysis.R - code for performing an analysis
 
 ## Task:
 
